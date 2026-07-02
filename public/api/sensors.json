@@ -1,0 +1,6 @@
+{
+  "source": "hawkins-lab",
+  "status": "unstable",
+  "hint": "The important signal is not in this JSON yet. Check the frontend state, storage, and styles.",
+  "noise": ["red", "gate", "will", "eleven", "upside-down"]
+}
